@@ -1,0 +1,21 @@
+# -- Menu Principale --
+
+[[main]]
+  name = "Chi sono"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Progetti"
+  pageRef = "projects"
+  weight = 20
+
+[[main]]
+  name = "Esperienza"
+  pageRef = "experience"
+  weight = 30
+
+[[main]]
+  name = "Contatti"
+  pageRef = "contact"
+  weight = 40

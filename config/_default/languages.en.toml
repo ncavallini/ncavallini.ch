@@ -1,0 +1,24 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Niccolò Cavallini"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "MSc Computer Science student at ETH Zurich & Full-Stack Developer"
+
+[params.author]
+  name = "Niccolò Cavallini"
+  email = "ncavallini@ethz.ch"
+  image = "img/author.jpg"
+  headline = "Computer Science @ ETH Zurich"
+  bio = "MSc Computer Science student at ETH Zurich & Full-Stack Developer"
+  links = [
+    { email = "mailto:ncavallini@ethz.ch" },
+    { github = "https://github.com/ncavallini" },
+    { linkedin = "https://linkedin.com/in/niccolò-cavallini-240993182" },
+  ]

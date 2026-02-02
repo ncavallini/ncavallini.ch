@@ -1,0 +1,24 @@
+---
+title: "Expert-in-the-Loop Visual Debugging"
+description: "Interactive visual debugging tool for structured information extraction from free trade agreements"
+summary: "Bachelor's thesis — interactive visual debugging tool for ML-based extraction of structured data from free trade agreement PDFs."
+weight: 1
+---
+
+## Overview
+
+Built as my Bachelor's thesis at ETH Zurich (Grade: **5.75 / 6.00**), this project is an interactive visual debugging tool enabling domain experts to inspect and correct ML-based extraction of structured data from free trade agreement PDFs.
+
+## What it does
+
+The tool processes free trade agreement documents and extracts structured data such as rules of origin and tariff concessions. Domain experts can then visually inspect the extraction results and provide corrections through an intuitive UI, creating an iterative feedback loop that improves accuracy.
+
+## {{< icon "list" >}} Key components
+
+- {{< icon "file-lines" >}} **Document parsing** pipeline for PDF free trade agreements
+- {{< icon "wand-magic-sparkles" >}} **Information extraction** using machine learning models
+- {{< icon "code" >}} **React-based UI** for interactive visual debugging and expert feedback
+
+## {{< icon "tag" >}} Tools Used
+
+Python, React, TypeScript

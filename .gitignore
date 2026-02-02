@@ -1,0 +1,36 @@
+# Hugo
+public/
+resources/_gen/
+hugo_stats.json
+.hugo_build.lock
+
+# Node (if using Hugo Pipes with PostCSS, Tailwind, etc.)
+node_modules/
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+*.log
+
+# Backup files
+*.markdown~
+*.md~
+
+# Apache
+.htpasswd
+
+# AWS publishing
+.aws-credentials.json
+.awspublish*
+
+CLAUDE.md
+.claude
