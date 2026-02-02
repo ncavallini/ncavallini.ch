@@ -4,7 +4,7 @@ description: "Professional experience — PCN Group di Niccolò Cavallini"
 ---
 
 ## Owner & Full-Stack Developer
-**PCN Group di Niccolò Cavallini** — {{< icon "location-dot" >}} Zurich | May 2021 – Present
+**PCN Group di Niccolò Cavallini** — {{< icon "location-dot" >}} Zurich | May 2024 – Present
 
 Sole proprietor providing end-to-end IT services: requirements gathering, architecture, development, deployment, and ongoing maintenance for small businesses across Switzerland.
 
