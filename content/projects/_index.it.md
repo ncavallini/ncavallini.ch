@@ -3,4 +3,11 @@ title: "Progetti"
 description: "Una selezione di progetti che ho realizzato"
 ---
 
-Una selezione di progetti personali e accademici.
+## Progetti accademici
+
+{{< article link="/it/projects/thesis-visual-debugging/" showSummary=true >}}
+{{< article link="/it/projects/find-your-zurich/" showSummary=true >}}
+
+## Progetti aziendali
+
+I progetti sviluppati nell'ambito di PCN Group sono disponibili sul <a href="https://pcngroup.ch/customers" target="_blank" rel="noopener noreferrer">sito della mia azienda</a>.
