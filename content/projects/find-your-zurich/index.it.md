@@ -1,5 +1,5 @@
 ---
-title: "Trova il tuo quartiere a Zurigo"
+title: "Find Your Zurich Neighborhood"
 description: "Web app basata sui dati che raccomanda quartieri di Zurigo in base alle preferenze di stile di vita"
 summary: "Una web app basata sui dati che raccomanda quartieri di Zurigo in base alle preferenze di stile di vita dell'utente, come tempi di percorrenza, spazi verdi, vita notturna e costo della vita."
 weight: 2

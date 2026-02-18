@@ -1,5 +1,5 @@
 ---
-title: "Visual Debugging con Esperto nel Loop"
+title: "Expert-in-the-Loop Visual Debugging for Structured Information Extraction from Free Trade Agreements"
 description: "Strumento interattivo di debugging visuale per l'estrazione di informazioni strutturate da accordi di libero scambio"
 summary: "Tesi di Bachelor — strumento interattivo di debugging visuale per l'estrazione automatica di dati strutturati da PDF di accordi di libero scambio."
 weight: 1
