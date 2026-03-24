@@ -5,7 +5,7 @@ description: "Contatta Niccolò Cavallini"
 
 Non esitare a contattarmi — sono sempre felice di fare nuove conoscenze.
 
-{{< icon "envelope" >}} **Email:** [ncavallini (at) ethz (dot) ch](mailto:ncavallini@ethz.ch)
+{{< icon "envelope" >}} **Email:** ncavallini (at) ethz (dot) ch
 
 {{< icon "phone" >}} **Telefono:** [+41 79 741 90 97](tel:+41797419097)
 
