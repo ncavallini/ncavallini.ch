@@ -11,7 +11,14 @@ showTableOfContents: true
 ## Education
 
 ### Swiss Federal Institute of Technology Zurich (ETHZ)
-**MSc in Computer Science** — Starting February 2026
+**MSc in Computer Science** — February 2026 – Present
+
+*Major: Secure and Reliable Systems — Minor: Machine Learning*
+
+- **Major Courses:** Automated Software Testing, Privacy Enhancing Technologies
+- **Minor Courses:** Interactive Machine Learning: Visualization & Explainability, Philosophy of Language and Computation I
+- **Other Courses:** Advanced Systems Lab, E-Business Law, Telecommunications Law
+- **Currently Attending:** Information Security Lab, Network Security, Big Data
 
 **BSc in Computer Science** — September 2021 – January 2026
 

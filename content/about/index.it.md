@@ -11,7 +11,14 @@ showTableOfContents: true
 ## Formazione
 
 ### Politecnico Federale di Zurigo (ETHZ)
-**MSc in Informatica** — Da febbraio 2026
+**MSc in Informatica** — Febbraio 2026 – Presente
+
+*Major: Secure and Reliable Systems — Minor: Machine Learning*
+
+- **Corsi del Major:** Automated Software Testing, Privacy Enhancing Technologies
+- **Corsi del Minor:** Interactive Machine Learning: Visualization & Explainability, Philosophy of Language and Computation I
+- **Altri corsi:** Advanced Systems Lab, E-Business Law, Telecommunications Law
+- **In frequenza:** Information Security Lab, Network Security, Big Data
 
 **BSc in Informatica** — Settembre 2021 – Gennaio 2026
 
